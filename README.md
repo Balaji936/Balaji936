@@ -37,7 +37,7 @@
 <h3 align="left">Also connect with me:</h3>
 <p align="left">  
 <a href="https://twitter.com/Balaji539245072" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hello" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Balaji K" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hello" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balaji-k-ba1a5218b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://www.facebook.com/smiley balaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_balaji.k_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://medium.com/@nishtinaa1611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hello" height="30" width="40" /></a>
