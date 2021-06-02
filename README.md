@@ -19,8 +19,8 @@
 
 ## 👨‍💻Languages and 🛠️Tools:
 
-| Python | C++ | HTML |
-| :---: | :---: | :---: | 
+| Python | C++ | HTML | 
+| :---: | :---: | :---: |
 
 | Jenkins | Git | Web Development |
 | :---: | :---: | :---: | 
@@ -28,8 +28,8 @@
 | Django | Streamlit |
 | :---: | :---: |  
 
-| Visual Studio Code | Jupyter Notebook |
-| :---: | :---: | 
+| Visual Studio Code | Jupyter Notebook | Linux |
+| :---: | :---: | :---: |
 
 | IBM Cloud | Google Cloud | AWS 
 | :---: | :---: | :---: | 
