@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Balaji K</h1>
 <h3 align="center">Cloud Enthusiast | Git | Jenkins</h3>
