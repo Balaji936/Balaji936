@@ -24,8 +24,8 @@
 | Jenkins | Git | Web Development |
 | :---: | :---: | :---: | 
 
-| Django | Streamlit |
-| :---: | :---: |  
+| Django | 
+| :---: |  
 
 | Visual Studio Code | Jupyter Notebook | Linux |
 | :---: | :---: | :---: |
