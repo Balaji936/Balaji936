@@ -21,7 +21,7 @@
 | Python | C | HTML | 
 | :---: | :---: | :---: |
 
-| Jenkins | Git | Web Development |
+| Git | Web Development |
 | :---: | :---: | :---: | 
 
 | Django | 
@@ -37,7 +37,6 @@
 <p align="left">  
 <a href="https://twitter.com/Balaji539245072" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balaji-k-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hello" height="30" width="40" /></a>
-<a href="https://www.facebook.com/smiley balaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_balaji.k_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://discord.gg/RsNjHAew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hello" height="30" width="40" /></a>
 </p>
