@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Balaji K</h1>
-<h3 align="center">Cloud Enthusiast | Git | Jenkins</h3>
+<h3 align="center">Cloud Enthusiast | Python </h3>
 
 ## ⚡All About me:
 <h3><> Learning from everyday experiences.</h3> 
