@@ -18,7 +18,7 @@
 
 ## 👨‍💻Languages and 🛠️Tools:
 
-| Python | C++ | HTML | 
+| Python | C | HTML | 
 | :---: | :---: | :---: |
 
 | Jenkins | Git | Web Development |
